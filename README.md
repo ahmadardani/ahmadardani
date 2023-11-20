@@ -12,10 +12,8 @@
 #### Tech Stacks 
 ![Debian](https://img.shields.io/badge/Debian-intermediate-d70a53)
 ![Git](git-intermediate-green)
-![ELK Stacks](https://img.shields.io/badge/ELK-intermediate-green)
-![Prometheus & Grafana](https://img.shields.io/badge/Prometehus&Grafana-intermediate-orange)
-![GCP](https://img.shields.io/badge/GCP-intermediate-green)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-intermediate-orange)
+![System Administration](SysAdmin-intermediate-orange)
+
 
 #### Scripting
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-green)
