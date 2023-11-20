@@ -4,8 +4,7 @@
 [![GitHub ahmadardani](https://img.shields.io/github/stars/ahmadardani?label=stars&style=social)](https://github.com/ahmadardani)
 
 - 🌱 I’m currently learning **Linux System Administration and DevOps**
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on free and open source projects
 - 💬 Ask me about **Linux Operating System**
 - 📫 How to reach me: ...
 
