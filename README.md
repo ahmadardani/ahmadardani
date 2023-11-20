@@ -11,8 +11,8 @@
 
 #### Tech Stacks 
 ![Debian](https://img.shields.io/badge/Debian-intermediate-d70a53)
-![Git](git-intermediate-green)
-![System Administration](SysAdmin-intermediate-orange)
+![Git](https://img.shields.io/badge/Git-intermediate-green)
+![System Administration](https://img.shields.io/badge/SysAdmin-intermediate-orange)
 
 
 #### Scripting
