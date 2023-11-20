@@ -22,7 +22,7 @@
 
 #### Programming Language
 ![Python](https://img.shields.io/badge/Python-Beginner-lightblue)
-![Rust](https://img.shields.io/badge/Rust-Beginner-lightred)
+![Rust](https://img.shields.io/badge/Rust-Beginner-red)
 
 
 
